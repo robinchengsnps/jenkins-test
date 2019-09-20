@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int foo()
+int foo2()
 {
     return 0;
 }
