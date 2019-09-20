@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int foo2()
+int stable()
 {
     return 0;
 }
